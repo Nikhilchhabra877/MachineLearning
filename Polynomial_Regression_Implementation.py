@@ -1,5 +1,6 @@
 ##### Developed by : Nikhil #################
 '''
+
 Polynomial Regression : It is a special form of linear regression that we use in the case where our data is not linear.
 
 - In this algorithm we apply the same steps we perform in linear regression. This only difference is that, in this technique
