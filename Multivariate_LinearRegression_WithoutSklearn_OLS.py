@@ -5,7 +5,10 @@ from sklearn.model_selection import train_test_split
 import seaborn as sns
 from sklearn.datasets import load_diabetes
 from sklearn.metrics import r2_score
-
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.datasets import load_diabetes
+from sklearn.metrics import r2_score
 class data_processing:
 
     def fetch_data(self):
